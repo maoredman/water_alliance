@@ -551,7 +551,7 @@ a[data-lightbox]:hover img{
 /* Background colour styles */
 
 .bgc-carmine-pink{
-	background-color:#408ec9;
+	background-color:#ffc000ff;
 }
 .bgc-outer-space{
 	background-color:#47454B;
@@ -591,7 +591,7 @@ a[data-lightbox]:hover img{
 /* Bloc image backgrounds */
 
 .bg-desktop-overlay{
-    background-image:url("img/maker-desk-overlay.png");
+    background-image:url("img/background.png");
 }
 .bg-hackntu-overlay{
     background-image:url("img/hackntu-overlay.png");
@@ -774,6 +774,7 @@ a[data-lightbox]:hover img{
         text-align: left;
         padding-left:15px;
         width:100%;
+        color: #757070;
     }
     .nav > li:hover{
         background:rgba(0,0,0,.08);
